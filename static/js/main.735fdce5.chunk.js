@@ -1,0 +1,2 @@
+(this["webpackJsonpreimagined-palm-tree"]=this["webpackJsonpreimagined-palm-tree"]||[]).push([[0],{11:function(e,n,t){"use strict";t.r(n);var r=t(0),i=t.n(r),c=t(3),o=t.n(c);t(8),t(9);function a(){return"Hello world!"}var s=t(2);o.a.render(Object(s.jsx)(i.a.StrictMode,{children:Object(s.jsx)(a,{})}),document.getElementById("root"))},8:function(e,n,t){},9:function(e,n,t){}},[[11,1,2]]]);
+//# sourceMappingURL=main.735fdce5.chunk.js.map

@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reimagined-palm-tree/static/css/main.924f0853.chunk.css",
+    "main.js": "/reimagined-palm-tree/static/js/main.735fdce5.chunk.js",
+    "main.js.map": "/reimagined-palm-tree/static/js/main.735fdce5.chunk.js.map",
+    "runtime-main.js": "/reimagined-palm-tree/static/js/runtime-main.41b4afcd.js",
+    "runtime-main.js.map": "/reimagined-palm-tree/static/js/runtime-main.41b4afcd.js.map",
+    "static/css/2.bc922b9c.chunk.css": "/reimagined-palm-tree/static/css/2.bc922b9c.chunk.css",
+    "static/js/2.14ebe712.chunk.js": "/reimagined-palm-tree/static/js/2.14ebe712.chunk.js",
+    "static/js/2.14ebe712.chunk.js.map": "/reimagined-palm-tree/static/js/2.14ebe712.chunk.js.map",
+    "index.html": "/reimagined-palm-tree/index.html",
+    "static/css/2.bc922b9c.chunk.css.map": "/reimagined-palm-tree/static/css/2.bc922b9c.chunk.css.map",
+    "static/css/main.924f0853.chunk.css.map": "/reimagined-palm-tree/static/css/main.924f0853.chunk.css.map",
+    "static/js/2.14ebe712.chunk.js.LICENSE.txt": "/reimagined-palm-tree/static/js/2.14ebe712.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41b4afcd.js",
+    "static/css/2.bc922b9c.chunk.css",
+    "static/js/2.14ebe712.chunk.js",
+    "static/css/main.924f0853.chunk.css",
+    "static/js/main.735fdce5.chunk.js"
+  ]
+}
